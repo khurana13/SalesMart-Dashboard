@@ -27,9 +27,6 @@ The dashboard provides a quick understanding of overall sales, profit, yearly tr
 
 - Tableau Public
 - Sample Superstore Dataset
-- Data Visualization
-- Dashboard Design
-- Business Intelligence
 
 ## Dataset
 
